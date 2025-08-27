@@ -8,7 +8,7 @@ This repository contains implementations of **Applied Data Structures and Algori
 
 | No. | Problem | Approach | Status | Code Link |
 |-----|---------|----------|--------|-----------|
-| 1 | Count Zeroes in an Array | Linear Scan / Binary Search | ✅ Completed | [count_zeroes.cpp](./count_zeroes.cpp) |
+| 1 | Count Zeroes in an Array | Linear Scan / Binary Search | ✅ Completed | [count_zeroes.cpp](..CO1/count_zeroes.cpp) |
 | 2 | Move Zeroes to End | Two-pointer method | ✅ Completed | [move_zeroes.cpp](./move_zeroes.cpp) |
 | 3 | Smallest Number with at least n Trailing Zeroes in Factorial | Binary Search | ✅ Completed | [trailing_zeroes.cpp](./trailing_zeroes.cpp) |
 | 4 | Divide and Conquer Problem | Divide & Conquer | ✅ Completed | [divide_conquer.cpp](./divide_conquer.cpp) |

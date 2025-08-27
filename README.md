@@ -20,7 +20,7 @@ This repository contains implementations of **Applied Data Structures and Algori
 ---
 
 ## 🛠️ Technologies Used
-- **Language:** C++ (can extend to Python/Java later)
+- **Language:** C++
 - **IDE/Editor:** VS Code
 - **Version Control:** Git & GitHub
 

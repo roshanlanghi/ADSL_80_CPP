@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int arr[] = {4, 3, 2, 1, 1};
+    int arr[] = {4, 3, 2, 1};
     int t = 7;
     int n = sizeof(arr) / sizeof(arr[0]);
     sort(arr, arr + n); 
@@ -14,9 +14,10 @@ int main()
 
     for (int i = 0; i < n; i++)
     {
-        if (tempsize + arr[i] <= t)
+        tempsize=tempsize + arr[i];
+        if (tempsize<= t)
         {
-            tempsize = tempsize + arr[i];
+           
             count++;
         }
         else

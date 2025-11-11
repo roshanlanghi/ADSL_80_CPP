@@ -15,9 +15,9 @@ This repository contains implementations of **Applied Data Structures and Algori
 | 5 | Activity Selection with K Persons | Greedy Scheduling | ✅ Completed | [05_activity_selection.cpp](./Assignments/05_activity_selection.cpp) |
 | 6 | Stock Trading Profit Maximization | Greedy / Dynamic Programming | ✅ Completed | [06_stock_profit.cpp](./Assignments/06_stock_profit.cpp) |
 | 7 | Minimum Work Per Day | Binary Search / Greedy | ✅ Completed | [07_min_work.cpp](./Assignments/07_min_work.cpp) |
-| 8 | GREEDY ALGO| Greedy / Priority Queue | ✅ Completed | [08_huffman_coding.cpp](./Assignments/08_greedy.cpp) |
-| 9 | COIN CHANGE PROBLEM| | ✅ Completed | [09_graph_traversal.cpp](./Assignments/09_coin_change_problem.cpp) |
-| 10 | SUBSETSUM|  | ✅ Completed | [10_dijkstra.cpp](./Assignments/10_subset_sum_problem.cpp) |
+| 8 | GREEDY ALGO| Greedy / Priority Queue | ✅ Completed | [08_greedy.cpp](./Assignments/08_greedy.cpp) |
+| 9 | COIN CHANGE PROBLEM| | ✅ Completed | [ COIN CHANGE PROBLEM](./Assignments/09_coin_change_problem.cpp) |
+| 10 | SUBSETSUM|  | ✅ Completed | [10_subset_sum_problem.cpp](./Assignments/10_subset_sum_problem.cpp) |
 
 ---
 
